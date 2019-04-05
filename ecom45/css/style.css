@@ -1,0 +1,19 @@
+.bg-black{
+    background-color:#211f30;
+}
+
+.carousel-caption{
+     top: 200px;
+}
+.div1{
+    max-width: 100%;
+    max-height: 500px;
+}
+
+.bg-light{
+    background-color: aqua;
+}
+.footer{
+    padding-block-start: 30px
+        ;
+}
